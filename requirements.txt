@@ -54,7 +54,6 @@ pycparser==2.20
 pydotplus==2.0.2
 Pygments==2.5.2
 PyHamcrest==2.0.2
-PyJWT==1.7.1
 pylint==2.5.3
 pylru==1.2.0
 pymongo==2.8
